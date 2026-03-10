@@ -16,14 +16,6 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-web</artifactId>
-            <version>3.3.3</version>
-        </dependency>
-    </dependencies>
-
     <build>
         <plugins>
             <plugin>
