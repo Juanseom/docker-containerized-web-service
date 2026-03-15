@@ -92,5 +92,9 @@ public class SimpleHttpServer {
     public boolean isRunning() {
         return running;
     }
+
+    public int getPort() {
+        return server.getAddress().getPort();
+    }
 }
 
