@@ -326,12 +326,6 @@ docker run -d -p 42000:6000 --name firstdockerimageaws <DOCKERHUB_USER>/<REPOSIT
 
 ## Evidence
 
-
-### GitHub repository and structure
-
-![GitHub repository](images/github-repository.png)
-![Project tree without target tracked](images/project-tree.png)
-
 ### Local tests and packaging
 
 ![Maven tests](images/maven-test-success.png)
@@ -346,7 +340,6 @@ docker run -d -p 42000:6000 --name firstdockerimageaws <DOCKERHUB_USER>/<REPOSIT
 ### Docker Compose deployment
 
 ![Docker compose up](images/docker-compose-up.png)
-![Docker compose services running](images/docker-compose-ps.png)
 
 ### Docker Hub publication
 
@@ -364,5 +357,6 @@ docker run -d -p 42000:6000 --name firstdockerimageaws <DOCKERHUB_USER>/<REPOSIT
 
 ## Video
 
-
+Watch the demo video here:  
+[Demo video (Docker + AWS EC2)](https://youtu.be/zBU0WhrH0wI)
 

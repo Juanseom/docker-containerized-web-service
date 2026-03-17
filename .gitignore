@@ -28,3 +28,7 @@ replay_pid*
 
 # IDE metadata
 .idea/
+
+video/*.mp4
+videos/*.mp4
+*.mp4
